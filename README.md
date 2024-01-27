@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... python. I completed an introductory course in C+ to get my programing fundementals under
 - my feet and now have moved intro python and then a more advance course come spring. I've also set clases for
 - HTTP/CSS, IOS APP Development, and intro to game development. My primary field of study is automation and robotic tech
-- and smart manufacturing intigration. 
+- and smart manufacturing intigration. I am currently a student, lab tech and part time teacher at my community college. 
 - 
 - 💞️ I’m looking to collaborate on ... I am primarily just doing solo work as of now still learning the different skills
 - involved with deeper level programming. 
